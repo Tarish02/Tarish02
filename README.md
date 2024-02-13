@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarish02
 - 👀 I’m interested in Coding or Learning new things from others
-- 🌱 I’m currently learning React 
+- 🌱  
 - 📫 How to reach me Discord ID - irzxm_ 
 
 <!---
